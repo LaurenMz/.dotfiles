@@ -1,2 +1,2 @@
 # .dotfiles
-Lauren's dotfiles for personal Macbook
+Lauren's dotfiles for personal MacBook (macOS).
